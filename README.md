@@ -55,7 +55,7 @@ nano /etc/shadowsocks-r/config.json
 /etc/init.d/shadowsocks-r restart
 ```
 
-1. Shadownsocks客户端下载和配置
+## Shadownsocks客户端下载和配置
 Shadowsocks客户端是安装在用户的电脑、手机等设备上的软件或APP，用来连接Shadowsocks服务器以达到翻墙的目的。
 
 [windows 电脑端](files/ShadowsocksR-win-4.9.0.zip)
